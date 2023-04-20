@@ -10,6 +10,6 @@ https://www.w3schools.com
 validator
 https://validator.w3.org/
 
-mypersonal website
+my personal website
 https://www.insegnarecoding.com
 https://www.codingcreativo.it/
